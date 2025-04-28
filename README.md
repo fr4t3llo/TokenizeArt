@@ -2,7 +2,7 @@
 
 ## 📜 Short Description
 This repository contains the smart contract for **Fr42t3llo**, an ERC-721 Non-Fungible Token (NFT).  
-The NFT is deployed on the Ethereum Holesky test network, with assets (image + metadata) stored on IPFS via Filebase.  
+The NFT is deployed on the Ethereum Holesky test network, with assets (image + metadata) stored on IPFS (InterPlanetary File System) via Filebase.  
 It allows the contract owner to mint NFTs with custom metadata.
 
 ---
