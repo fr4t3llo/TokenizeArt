@@ -1,0 +1,11 @@
+{
+    "name" : "myNFT",
+    "description" : "its my first nft, its very beautiful and have a 42 number",
+    "image" :"https://ipfs.io/ipfs/QmSxCqgaU84qxHR1Q77nyRatgZEfBQCG46y6sZnZcy4tHx",
+    "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "skasmi"
+        }
+      ]
+}
